@@ -125,3 +125,4 @@ jobs:
           context: ./gateway/
           push: true
           tags: max171945/taski_gateway:latest
+
